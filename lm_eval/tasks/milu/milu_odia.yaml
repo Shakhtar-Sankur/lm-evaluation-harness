@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Odia
+task: milu_odia
+task_alias: Odia

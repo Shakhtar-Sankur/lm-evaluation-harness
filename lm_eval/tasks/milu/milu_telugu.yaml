@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Telugu
+task: milu_telugu
+task_alias: Telugu

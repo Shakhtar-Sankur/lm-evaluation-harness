@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Gujarati
+task: milu_gujarati
+task_alias: Gujarati

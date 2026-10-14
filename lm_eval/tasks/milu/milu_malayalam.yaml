@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Malayalam
+task: milu_malayalam
+task_alias: Malayalam

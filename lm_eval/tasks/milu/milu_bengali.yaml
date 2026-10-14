@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Bengali
+task: milu_bengali
+task_alias: Bengali

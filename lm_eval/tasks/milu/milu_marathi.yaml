@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Marathi
+task: milu_marathi
+task_alias: Marathi

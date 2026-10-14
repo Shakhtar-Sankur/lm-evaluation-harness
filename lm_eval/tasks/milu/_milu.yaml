@@ -1,0 +1,18 @@
+group: milu
+task:
+  - milu_english
+  - milu_bengali
+  - milu_gujarati
+  - milu_hindi
+  - milu_kannada
+  - milu_malayalam
+  - milu_marathi
+  - milu_odia
+  - milu_punjabi
+  - milu_tamil
+  - milu_telugu
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: true
+metadata:
+  version: 1.0

@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Tamil
+task: milu_tamil
+task_alias: Tamil

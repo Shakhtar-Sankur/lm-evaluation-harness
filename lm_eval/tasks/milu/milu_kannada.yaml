@@ -1,0 +1,4 @@
+include: _default_milu_template_yaml
+dataset_name: Kannada
+task: milu_kannada
+task_alias: Kannada
